@@ -15,9 +15,6 @@ DSDELIVERY-DS2 is a full-stack web application developed to streamline the proce
 *  ![TypeScript]
 * [![Bootstrap][Bootstrap]][Bootstrap-url]
 
-
-## Getting Started
-
 ## Prerequisites
 
 Before you begin, make sure you have the following software installed on your system:
