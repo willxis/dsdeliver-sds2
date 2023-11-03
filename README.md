@@ -6,13 +6,14 @@
 DSDELIVERY-DS2 is a full-stack web application developed to streamline the process of ordering pizzas and managing deliveries. The project is built using Java in the backend and React in the frontend.
 
 ### Built With
+* [![ApacheMaven][ApacheMaven]][ApacheMaven-url]
 * [![Java][Java]][Java-url]
 * [![SpringFramework][Spring]][Spring-url]
 * [![JQuery][JQuery]][JQuery-url]
 * [![Postgres][Postgres]][Postgres-url]
 * [![React][ReactJS]][React-url]
-*  ![HTML5]
-*  ![TypeScript]
+* ![HTML5]
+* ![TypeScript]
 * [![Bootstrap][Bootstrap]][Bootstrap-url]
 
 ## Prerequisites
@@ -116,4 +117,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 [JQuery]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 
+[ApacheMaven]: https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white
+[ApacheMaven-url]: https://maven.apache.org/
 
