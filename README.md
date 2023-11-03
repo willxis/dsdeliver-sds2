@@ -29,7 +29,7 @@ Clone the repository to your local machine:
 
 ```
 
-git clone https://github.com/willxis/DSDELIVERY-DS2.git
+git clone https://github.com/willxis/dsdeliver-sds2.git
 
 ```
 Set up the backend:
@@ -51,8 +51,7 @@ Set up the frontend:
 
 Navigate to the frontend directory.
 Install the dependencies.
-bash
-Copy code
+
 ```
 cd frontend
 
